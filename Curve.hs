@@ -1,5 +1,6 @@
-import Data.List
+module Smash.Curve (curve) where
 
+import Data.List
 
 type Point = (Float,Float,Float)
 
