@@ -1,4 +1,4 @@
-module Smash.Curve (curve) where
+module Smash.Curve (curve1) where
 
 import Data.List
 
